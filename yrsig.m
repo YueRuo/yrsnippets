@@ -1,5 +1,5 @@
-// yrsig
-// 
+// yrsingletonimplement
+// yrsingletonimplement
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 19823866-5FB2-4E3D-BCBA-5A878C945E14
