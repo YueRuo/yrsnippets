@@ -1,4 +1,4 @@
-// YRViewFrameSetter
+// YRFrameSetter
 // uiview frame set
 //
 // IDECodeSnippetCompletionPrefix: yrframesetter
