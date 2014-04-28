@@ -9,6 +9,7 @@
 // IDECodeSnippetVersion: 0
 /*!
  *	@brief	singleton for class 
+ *
  *  @return singleton
  */
 +(instancetype)shareInstance;
