@@ -1,4 +1,4 @@
-// yrsingletonimplement
+// YRSingletonImplement
 // yrsingletonimplement
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
