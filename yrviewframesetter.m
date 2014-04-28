@@ -1,6 +1,7 @@
 // YRViewFrameSetter
 // uiview frame set
 //
+// IDECodeSnippetCompletionPrefix: yrviewframesetter
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: DD09E1D1-E324-4D93-B263-7813D3A13D50
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
