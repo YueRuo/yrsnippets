@@ -8,8 +8,6 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 /*!
- *	@brief	singleton for class <#class#>
- *
- *	@return	singleton class
+ *	@brief	singleton for class 
  */
 +(instancetype)shareInstance;
