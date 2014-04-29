@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: B6E52B69-E4F5-4401-8B30-4BDA4172DBE0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 /*!
  *	@brief	singleton for class 
  *
