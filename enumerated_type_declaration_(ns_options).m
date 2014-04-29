@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: nsoptions
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 247A1538-3248-42C0-94DC-4332862B6625
+// IDECodeSnippetIdentifier: 0DA30D9A-1D3B-4C9A-9819-A8C5BBC3FA58
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 typedef NS_OPTIONS(NSUInteger, <#MyEnum#>) {
     <#MyEnumValueA#> = 1 << 0,
     <#MyEnumValueB#> = 1 << 1,
