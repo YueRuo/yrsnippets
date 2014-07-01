@@ -1,5 +1,5 @@
 // YRTableViewSnippet
-// 
+// TableView dataSource & delegate
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 1B7AEB88-D036-4A52-B0D6-249E19F93D40
