@@ -1,4 +1,4 @@
-// MyTableViewSnippet
+// YRTableViewSnippet
 // 
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
