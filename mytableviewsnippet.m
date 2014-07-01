@@ -1,6 +1,7 @@
 // YRTableViewSnippet
 // TableView dataSource & delegate
 //
+// IDECodeSnippetCompletionPrefix: yrtableviewdelegate
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 1B7AEB88-D036-4A52-B0D6-249E19F93D40
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
