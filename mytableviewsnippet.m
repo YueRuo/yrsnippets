@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 1B7AEB88-D036-4A52-B0D6-249E19F93D40
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark tableViewDateSource
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
     return 1;
